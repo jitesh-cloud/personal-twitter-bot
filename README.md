@@ -8,3 +8,6 @@ To make it work you have to follow some crucial steps in here -
 4. Make sure you need to install 'selenium' python module - just open command prompt and command : pip install selenium
 
 Try it! Go on Aliens..... Have Fun!!!
+
+
+Note - This is not a complete program there will some more updates in the future. In case if you want to experience some magic in here go on. This is just for fun purpose.
