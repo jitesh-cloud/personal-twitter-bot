@@ -2,7 +2,7 @@
 
 Have ever experienced Magic? The automated program will do whatever you would like to do.
 
-This project works on the chrome webdriver and python module selenium. The project is a bot works on functionalities like tweeting, following, liking tweets, and much more.
+This project works on the chrome webdriver and python module selenium. The project is a twitter bot will do all the things you'd like to do tweeting, following, liking tweets and much more on the go.
 
 To make it work you have to follow some crucial steps in here -
 1. Make sure you have python installed in your device, if not the download and install from link - https://www.python.org/downloads/
