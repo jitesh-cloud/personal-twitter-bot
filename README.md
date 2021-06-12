@@ -6,6 +6,7 @@ Have ever experienced Magic? The automated program will do whatever you would li
 This project works on the chrome webdriver and python module selenium. The project is a twitter bot will do all the things you'd like to do tweeting, following, liking tweets and much more on the go.
 
 
+
 To make it work you have to follow some crucial steps in here -
 
 1. Make sure you have python installed in your device, if not the download and install from link - https://www.python.org/downloads/
@@ -17,7 +18,9 @@ To make it work you have to follow some crucial steps in here -
 4. Make sure you need to install 'selenium' python module - just open command prompt and command : pip install selenium
 
 
+
 Try it! Go on Aliens..... Have Fun!!!
+
 
 
 
