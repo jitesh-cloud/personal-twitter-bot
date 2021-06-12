@@ -1,4 +1,7 @@
 # personal-twitter-bot
+
+Have ever experienced Magic? The automated program will do whatever you would like to do.
+
 This project works on the chrome webdriver and python module selenium. The project is a bot works on functionalities like tweeting, following, liking tweets, and much more.
 
 To make it work you have to follow some crucial steps in here -
